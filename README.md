@@ -19,18 +19,18 @@ Build a regression model using regularisation in order to predict the actual val
 
 ## Conclusions
 Important features selected after following Linear Regression using RFE, Ridge & Lasso are as follows:
-	LotFrontage - Linear feet of street connected to property
-	LotArea - Lot size in square feet
-	OverallQual - Rates the overall material and finish of the house
-	OverallCond - Rates the overall condition of the house
-	MasVnrArea - Masonry veneer area in square feet
-	BsmtFinSF1 - Type 1 finished square feet
-	1stFlrSF - First Floor square feet
-	2ndFlrSF - Second Floor square feet
-	LowQualFinSF - Low quality finished square feet (all floors)
-	GrLivArea - Above grade (ground) living area square feet
-	BsmtFullBath - Basement full bathrooms
-	FullBath - Full bathrooms above grade
+- LotFrontage - Linear feet of street connected to property
+- LotArea - Lot size in square feet
+- OverallQual - Rates the overall material and finish of the house
+- OverallCond - Rates the overall condition of the house
+- MasVnrArea - Masonry veneer area in square feet
+- BsmtFinSF1 - Type 1 finished square feet
+- 1stFlrSF - First Floor square feet
+- 2ndFlrSF - Second Floor square feet
+- LowQualFinSF - Low quality finished square feet (all floors)
+- GrLivArea - Above grade (ground) living area square feet
+- BsmtFullBath - Basement full bathrooms
+- FullBath - Full bathrooms above grade
 
 Features that are positively increasing the sales price:
 1 LotFrontage
