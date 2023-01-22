@@ -33,18 +33,18 @@ Important features selected after following Linear Regression using RFE, Ridge &
 - FullBath - Full bathrooms above grade
 
 Features that are positively increasing the sales price:
-1 LotFrontage
-2 LotArea
-3 OverallQual
-4 OverallCond
-5 MasVnrArea
+1) LotFrontage
+2) LotArea
+3) OverallQual
+4) OverallCond
+5) MasVnrArea
 
 Features that are negatively influencing the sales price:
-1 SaleCondition: Alloca --> Allocation - two linked properties with separate deeds, typically condo with a garage unit
-2 SaleType: Con --> Contract - 15% Down payment regular terms
-3 GarageQual: Garage quality
-4 GarageFinish: Interior finish of the garage
-5 GarageType: Garage location
+1) SaleCondition: Alloca --> Allocation - two linked properties with separate deeds, typically condo with a garage unit
+2) SaleType: Con --> Contract - 15% Down payment regular terms
+3) GarageQual: Garage quality
+4) GarageFinish: Interior finish of the garage
+5) GarageType: Garage location
 
 ### Evaluation Results:
 Alpha --> Ridge = 3 | Lasso = 100
