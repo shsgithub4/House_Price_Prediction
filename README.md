@@ -14,7 +14,7 @@ The company is looking at prospective properties to buy to enter the market and 
 
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
-Business Goal:
+Business Goal:<br>
 Build a regression model using regularisation in order to predict the actual value of the prospective properties with the available independent variables and decide whether to invest in them or not. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 ## Conclusions
